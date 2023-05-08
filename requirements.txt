@@ -1,2 +1,2 @@
-testmod1 @ file:///C:/Users/Eric.DiGioacchino/Documents/TestMods/packages/testmod1
-testmod2 @ file:///C:/Users/Eric.DiGioacchino/Documents/TestMods/packages/testmod2
+testmod1 @ git+https://github.com/EricDiGi/python-hypermodules.git#subdirectory=modules/testmod1
+testmod2 @ git+https://github.com/EricDiGi/python-hypermodules.git#subdirectory=modules/testmod2
