@@ -1,0 +1,2 @@
+testmod1 @ file:///C:/Users/Eric.DiGioacchino/Documents/TestMods/packages/testmod1
+testmod2 @ file:///C:/Users/Eric.DiGioacchino/Documents/TestMods/packages/testmod2

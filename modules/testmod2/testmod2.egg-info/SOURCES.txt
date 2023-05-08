@@ -1,0 +1,7 @@
+__init__.py
+setup.py
+testmod2.py
+testmod2.egg-info/PKG-INFO
+testmod2.egg-info/SOURCES.txt
+testmod2.egg-info/dependency_links.txt
+testmod2.egg-info/top_level.txt
